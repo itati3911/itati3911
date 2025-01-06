@@ -34,7 +34,6 @@ I am a second-year student of the University Technician in Programming at the Na
 - **🐙 GitHub:** [github.com/itati3911](https://github.com/itati3911)
 - **🔗 LinkedIn:** [linkedin.com/in/bon-vivant](https://www.linkedin.com/in/bon-vivant)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itati3911&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
 
