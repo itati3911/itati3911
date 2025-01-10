@@ -10,7 +10,7 @@ Here´s my Curriculum Vitae: https://docs.google.com/document/d/1abAFxMXQZOXbGZz
 ## 📚 Education
 
 - **University Technician in Programming** - National Technological University (UTN)
-  - Currently in the second year
+  - Currently finishing the second year
 
 - **Additional Courses** - Coderhouse
   - Web Development (HTML + CSS)
