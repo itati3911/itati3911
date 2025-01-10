@@ -3,6 +3,8 @@
 
 I am a second-year student of the University Technician in Programming at the National Technological University (UTN). I have experience in various programming languages and technologies, and I am always eager to learn and face new challenges.
 
+This is my portfolio: https://portfolio-itati-romero.vercel.app/
+
 ## 📚 Education
 
 - **University Technician in Programming** - National Technological University (UTN)
