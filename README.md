@@ -12,7 +12,7 @@ Here´s my Curriculum Vitae: https://docs.google.com/document/d/1abAFxMXQZOXbGZz
 - **University Technician in Programming** - National Technological University (UTN)
   - Currently finishing the second year
 
-- **Additional Courses** - Coderhouse
+- **Additional Courses** 
   - Web Development (HTML + CSS)
   - JavaScript
   - React JS
@@ -26,11 +26,11 @@ Here´s my Curriculum Vitae: https://docs.google.com/document/d/1abAFxMXQZOXbGZz
 ## 🛠️ Skills
 
 - **Programming Languages:**
-  - C++, C#, SQL, HTML, CSS, JavaScript, React
+  - C++, C#, JAVA, SQL, HTML, CSS, JavaScript, React
 - **Languages:**
   - English (Level C2)
 - **Tools:**
-  - Git, GitHub
+  - Git, GitHub, Trello, Jira
 
 ## 💬 Contact
 
